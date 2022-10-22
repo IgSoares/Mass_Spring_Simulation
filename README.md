@@ -1,4 +1,5 @@
-# Matlab_Simulink - Animação de sistema massa-mola
-Implementação de uma animação de um sistema massa mola em MATLAB
+# Modeling and animation of a mass-spring system in Matlab
 
-Código desenvolvido no Matlab R2013a
+Model Implementation and animation of a spring mass system in MATLAB.
+
+Código developed in Matlab version 2013b.
